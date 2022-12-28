@@ -1,6 +1,4 @@
 <!--
-**pillaidalini/PillaiDalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there ❤️
 * 👋 My name is Dalini from the DevOps Team 
 * 🌱 I’m currently learning Azure
